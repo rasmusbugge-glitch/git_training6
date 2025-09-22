@@ -1,1 +1,1 @@
-Library (pryr) # World Hello
+Library (pryr) # Hello World
